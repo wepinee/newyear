@@ -1,4 +1,4 @@
-package newyeargolab1
+package newyear
 
 import "time"
 
